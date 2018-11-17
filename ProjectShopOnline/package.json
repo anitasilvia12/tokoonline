@@ -1,0 +1,11 @@
+{
+  "name": "projectshoponline",
+  "version": "1.0.0",
+  "description": "Project case fullstack js bootcamp Bandung I",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anita",
+  "license": "ISC"
+}
